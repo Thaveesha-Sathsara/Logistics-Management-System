@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore packages
+packages/
+*.nupkg
+
+# Ignore other unnecessary files
+*.log
+*.vsidx
